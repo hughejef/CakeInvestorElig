@@ -1,4 +1,4 @@
-
+Import find_max_ltv From CheckFico
 # Check Investor
 investor = "Sponge"
 
@@ -26,3 +26,4 @@ check_fico():
 
 
 if __name__ == "__main__":
+    check_fico():
